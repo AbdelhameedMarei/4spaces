@@ -111,7 +111,6 @@ nav label i{
 }
 
 /*********** Main Section Style ***********/
-
 main{
     display: flex;
     justify-content: space-between;
@@ -197,6 +196,7 @@ main .hero-image img{
     .braek-line span::after,
     .braek-line span::before{ width: 50px; }
     .braek-line{ text-align: center;}
+    main .hero-image img{ width: 300px; }
 }
 
 /*********** Footer Section Style ***********/
